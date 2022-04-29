@@ -1,0 +1,15 @@
+/build/
+*.png
+*.xlsx
+*.db
+.DS_Store
+*~
+.*.swp
+/tags
+CMakeSettings.json
+.vs
+.idea
+*.json
+*.pyc
+*.log
+*list
